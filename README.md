@@ -22,9 +22,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Car Dealer Data From an Organization.**
-![image](1 anietie etuk data analytics car project.jpeg)
+<!-- ![image](1 anietie etuk data analytics car project.jpeg)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+The sinking of the Titanic is one of the most infamous shipwrecks in history.-->
 
 
 <!--[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
@@ -71,9 +71,9 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td>🌐</td>
       <td><a href="www.linkedin.com/in/david-yusuf-hassan-62b547224">The things I do daily on LinkedIn</a></td>
     </tr>
-    <tr>
+     <!--<tr>
       <td>📺</td>
-    <!--  <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td> -->
-    </tr>
+     <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td> 
+    </tr> -->
   </tbody>
 </table>
