@@ -9,10 +9,10 @@ Hello! I'm David Yusuf Hassan, a data analyst and educator with a passion for tu
 
 *As Data Analyst facilitator at Tech-bridge Integrated Services, I provide consulting and training services for individuals, businesses and mentorship to aspiring analysts.*
 
-**- ✅ Data Analytics Consulting.**
+**- Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
 
-**- ✅ Training & Development.**
+**- Training & Development.**
 I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
 
 
