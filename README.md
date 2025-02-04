@@ -29,9 +29,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 [Read More](https://https://www.linkedin.com/posts/david-yusuf-hassan-62b547224_analysing-car-sales-and-profits-for-each-activity-7292579569117626369-aezp?utm_source=share&utm_medium=member_desktop)
 
-<!-- **Predictive Modeling and Hypothesis Testing using Titanic Dataset.** -->
+<!--**Predictive Modeling and Hypothesis Testing using Titanic Dataset.** -->
 
-<!--![image](2 anietie etuk data analytics sales project.jpg)
+![image](2 anietie etuk data analytics sales project.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
@@ -43,7 +43,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a> -->
+<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>-->
 
 
 ## CONTACT DETAILS
