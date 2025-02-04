@@ -29,7 +29,7 @@ The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 [Read More](https://https://www.linkedin.com/posts/david-yusuf-hassan-62b547224_analysing-car-sales-and-profits-for-each-activity-7292579569117626369-aezp?utm_source=share&utm_medium=member_desktop)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+<!-- **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
 
@@ -37,7 +37,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-<!--**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
