@@ -24,7 +24,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Analyzing Car Sale and profit for each Dealer**
  ![image](dashboard1.PNG)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+<!-- The sinking of the Titanic is one of the most infamous shipwrecks in history. -->
 
 
 [Read More](https://https://www.linkedin.com/posts/david-yusuf-hassan-62b547224_analysing-car-sales-and-profits-for-each-activity-7292579569117626369-aezp?utm_source=share&utm_medium=member_desktop)
