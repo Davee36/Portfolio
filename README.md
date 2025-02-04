@@ -27,7 +27,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 
-[Read More](https://https://www.linkedin.com/posts/david-yusuf-hassan-62b547224_analysing-car-sales-and-profits-for-each-activity-7292579569117626369-aezp?utm_source=share&utm_medium=member_desktop)
+[Read More](https://www.linkedin.com/posts/david-yusuf-hassan-62b547224_analysing-car-sales-and-profits-for-each-activity-7292579569117626369-aezp?utm_source=share&utm_medium=member_desktop)
 
 <!--**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
