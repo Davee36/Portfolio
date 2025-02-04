@@ -22,9 +22,9 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects I've been working on.*
 
 **Predictive Modeling and Hypothesis Testing using Car Dealer Data From an Organization.**
-<!-- ![image](dashboard1.PNG)
+ ![image](dashboard1.PNG)
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.-->
+The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 
 <!--[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
