@@ -31,7 +31,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 <!-- **Predictive Modeling and Hypothesis Testing using Titanic Dataset.** -->
 
-![image](2 anietie etuk data analytics sales project.jpg)
+<!--![image](2 anietie etuk data analytics sales project.jpg)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
