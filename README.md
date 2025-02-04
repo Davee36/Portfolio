@@ -37,7 +37,7 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+<!--**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
 
