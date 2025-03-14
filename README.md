@@ -65,7 +65,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/Davee36/Portfolio/blob/c6d12ebcd97223912f11ec7cc3972595b19e2781/Resume.pdf">Get my Resume</a></td>
+      <td><a href="https://github.com/Davee36/Portfolio/blob/bb14571a8c458f1b8ad6a91e412e56fb075f5b3a/Resume%20David%20Yusuf%20Hassan%20-%20Google%20Docs.pdf">Get my Resume</a></td>
     </tr>
     <tr>
       <td>🌐</td>
