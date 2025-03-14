@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/david-yusuf-hassan-62b547224">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/david-yusuf-hassan-62b547224/recent-activity/all/">The things I do daily on LinkedIn</a></td>
     </tr>
      <!--<tr>
       <td>📺</td>
